@@ -32,7 +32,4 @@ Main Boss Logic Loop.  Can be interrupted by damaging the boss to call `OnDamage
 - Some attacks also spend time, like in shadow/firstmefiress_omega.lua line 168: `ShotVulcan(_ARG_0_, "DeathVulcan", 1)` waits for 1s before resuming the action loop.
 
 Happy deciphering!
-=======
-All Decompiled Boss Logic for Sonic '06 By Story
 
-No vs Hedgehogs Yet, soon...
