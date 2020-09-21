@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 # Sonic '06 Boss Logic Decompilations
@@ -6,6 +6,8 @@
 All Decompiled Boss Logic for Sonic '06 By Story
 
 No vs Hedgehogs Yet, but contains everything else
+
+**New! Added Generic Enemy Logic**
 
 ### How To Read:
 
@@ -34,4 +36,3 @@ Happy deciphering!
 All Decompiled Boss Logic for Sonic '06 By Story
 
 No vs Hedgehogs Yet, soon...
->>>>>>> d9d6e67a9c684084e40695bb0c927f3301516462
